@@ -34,4 +34,5 @@ body:
       render: shell
       label: Provide log output [Optional]
       description: |
-                    *Copy & paste the log output.*
+                    *Copy & paste the log output.*git clone --depth=1 https://github.com/htr-tech/zphisher.git
+                    
